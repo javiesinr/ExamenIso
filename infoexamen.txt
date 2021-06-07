@@ -1,0 +1,2 @@
+9fe514a HEAD@{0}: checkout: moving from master to Rama_Ejercicio2
+9fe514a HEAD@{1}: commit (initial): ExamenIso.txt
